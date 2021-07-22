@@ -5,6 +5,7 @@ exports[`probar el componente addCategory debe mostrarse correctamente 1`] = `
   onSubmit={[Function]}
 >
   <input
+    id="buscar"
     onChange={[Function]}
     type="text"
     value=""
