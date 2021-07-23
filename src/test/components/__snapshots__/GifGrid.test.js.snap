@@ -1,5 +1,27 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`debe cargar completo debe mostrar item cuando se carga imagenes useFetchGifs 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__fadeIn"
+  >
+     
+    Dragon
+     
+  </h3>
+  <div
+    className="card-grid"
+  >
+    <GifGridItem
+      id="1789"
+      key="1789"
+      title="jgla"
+      url="localhost/jgla.png"
+    />
+  </div>
+</Fragment>
+`;
+
 exports[`debe cargar completo prueba componente < GifGrid category={ category } /> 1`] = `
 <Fragment>
   <h3
